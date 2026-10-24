@@ -1,0 +1,12 @@
+.DS_Store
+
+# 宣传视频 / YouTube 素材：只留本地，不进仓库（网站用的 media/ 仍需提交）
+store-assets/promo-reel.mp4
+store-assets/promo-reel-vertical.mp4
+store-assets/promo-reel-vertical-wechat.mp4
+store-assets/reel-src/
+store-assets/youtube/
+
+# 打包好的插件只用来上传商店，不进仓库
+*.zip
+dist/
